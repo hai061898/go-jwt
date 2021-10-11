@@ -27,6 +27,7 @@ require (
 
 require (
 	github.com/aquasecurity/libbpfgo v0.1.1
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/go-playground/validator v9.31.0+incompatible
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
